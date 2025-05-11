@@ -38,7 +38,7 @@ public class WebhookStartupRunner implements CommandLineRunner {
 
             // 1. Generate a webhook
             WebhookRequest webhookRequest = new WebhookRequest(
-                    "Prem kuswah",
+                    "Prem kushwah",
                     "REG12347",
                     "premkushwah220706@acropolis.in"
             );
